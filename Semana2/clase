@@ -1,0 +1,8 @@
+edad = int(input("Edad: "))
+if edad < 51:
+    print("infantil: $50")
+elif edad < 60:
+    print("General: $120")
+else:
+    print("adulto mayor: $60")
+

@@ -1,0 +1,5 @@
+gasolina = 3
+while gasolina > 0:
+    print(f"Queda {gasolina} L")
+    gasolina = - 1
+print("A empujar la moto")

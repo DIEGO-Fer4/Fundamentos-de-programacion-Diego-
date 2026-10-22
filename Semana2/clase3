@@ -1,0 +1,4 @@
+tabla = int(input("Tabla del 7: "))
+while tabla < 10:
+    print(f"7 x {tabla} = {7 * tabla}")
+    tabla += 1
