@@ -3,3 +3,4 @@ anio_formacion = 1960
 anio_actual = 2026
 anios_escenario = anio_actual - anio_formacion
 print(f"{nombre_banda} lleva {anios_escenario} años en el escenario")
+
